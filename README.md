@@ -1,4 +1,4 @@
-# Switch - Android
+# Switch-Android
 This library is used to change intents and/or fragments using one line of code.
 
 <h2>Download</h2>
@@ -16,7 +16,7 @@ allprojects {
 2. Add the dependency:<br />
 ```
 dependencies {
-   compile 'com.github.ivansison02:switch:-SNAPSHOT'
+   compile 'com.github.ivansison02:switch:switch-SNAPSHOT'
 }
 ```
 
